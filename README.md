@@ -1,6 +1,7 @@
 # PH Style Server Status
 
 这是一个使用 Pornhub 风格设计的服务器状态监控面板展示页面。该项目将 [哪吒监控面板](https://ssss.nyc.mn/) 嵌入到一个自定义设计的界面中，专门用于监控 serv00 服务器的运行状态和资源使用情况。
+![](https://cdn.jsdelivr.net/gh/bbylw/PicGo@master/20241222024433483.png)
 
 ## 监控内容
 
